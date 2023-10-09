@@ -1,7 +1,7 @@
 # Это мой еле живущий и хромающий репозиторий:
 
 
-### Deploy a Production Ready PostgreSQL High-Availability Cluster (based on "Patroni" and DCS "etcd" or "consul"). Automating with Ansible.
+### Здесь всё как в примере, + отдельно лежилт папочка Helm
 
 This Ansible playbook is designed for deploying a PostgreSQL high availability cluster on dedicated physical servers for a production environment. The cluster can also be deployed on virtual machines and in the Cloud.
 
